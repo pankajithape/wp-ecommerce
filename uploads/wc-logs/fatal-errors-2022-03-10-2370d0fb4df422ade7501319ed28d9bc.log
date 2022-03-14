@@ -1,0 +1,132 @@
+2022-03-10T06:14:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php:165
+Stack trace:
+#0 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(356): vm_myTestimonials('', '', 'myTestimonials-...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(myTest...', 'do_shortcode_ta...', '[myTestimonials...')
+#3 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\class-wp-hook.php(307): do_shortcode('[myTestimonials...')
+#4 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('[myTestimonials...', Array)
+#5 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1811): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php on line 165
+
+2022-03-10T06:14:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php:165
+Stack trace:
+#0 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(356): vm_myTestimonials('', '', 'myTestimonials-...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(myTest...', 'do_shortcode_ta...', '[myTestimonials...')
+#3 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\class-wp-hook.php(307): do_shortcode('[myTestimonials...')
+#4 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('[myTestimonials...', Array)
+#5 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1811): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php on line 165
+
+2022-03-10T06:15:16+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php:165
+Stack trace:
+#0 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(356): vm_myTestimonials('', '', 'myTestimonials-...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(myTest...', 'do_shortcode_ta...', '[myTestimonials...')
+#3 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\class-wp-hook.php(307): do_shortcode('[myTestimonials...')
+#4 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('[myTestimonials...', Array)
+#5 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-revisions-controller.php(606): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-control in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php on line 165
+
+2022-03-10T06:15:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php:165
+Stack trace:
+#0 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(356): vm_myTestimonials('', '', 'myTestimonials-...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(myTest...', 'do_shortcode_ta...', '[myTestimonials...')
+#3 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\class-wp-hook.php(307): do_shortcode('[myTestimonials...')
+#4 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('[myTestimonials...', Array)
+#5 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-revisions-controller.php(606): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-control in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php on line 165
+
+2022-03-10T06:16:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php:165
+Stack trace:
+#0 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(356): vm_myTestimonials('', '', 'myTestimonials-...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(myTest...', 'do_shortcode_ta...', '[myTestimonials...')
+#3 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\class-wp-hook.php(307): do_shortcode('[myTestimonials...')
+#4 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('[myTestimonials...', Array)
+#5 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1811): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php on line 165
+
+2022-03-10T06:17:00+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php:165
+Stack trace:
+#0 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(356): vm_myTestimonials('', '', 'myTestimonials-...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(myTest...', 'do_shortcode_ta...', '[myTestimonials...')
+#3 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\class-wp-hook.php(307): do_shortcode('[myTestimonials...')
+#4 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('[myTestimonials...', Array)
+#5 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1811): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php on line 165
+
+2022-03-10T06:17:19+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php:165
+Stack trace:
+#0 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(356): vm_myTestimonials('', '', 'myTestimonials-...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(myTest...', 'do_shortcode_ta...', '[myTestimonials...')
+#3 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\class-wp-hook.php(307): do_shortcode('[myTestimonials...')
+#4 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('[myTestimonials...', Array)
+#5 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1811): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php on line 165
+
+2022-03-10T06:17:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php:165
+Stack trace:
+#0 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(356): vm_myTestimonials('', '', 'myTestimonials-...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(myTest...', 'do_shortcode_ta...', '[myTestimonials...')
+#3 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\class-wp-hook.php(307): do_shortcode('[myTestimonials...')
+#4 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('[myTestimonials...', Array)
+#5 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1811): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php on line 165
+
+2022-03-10T06:17:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php:165
+Stack trace:
+#0 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(356): vm_myTestimonials('', '', 'myTestimonials-...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(myTest...', 'do_shortcode_ta...', '[myTestimonials...')
+#3 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\class-wp-hook.php(307): do_shortcode('[myTestimonials...')
+#4 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('[myTestimonials...', Array)
+#5 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-revisions-controller.php(606): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-control in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php on line 165
+
+2022-03-10T06:19:30+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php:165
+Stack trace:
+#0 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(356): vm_myTestimonials('', '', 'myTestimonials-...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(myTest...', 'do_shortcode_ta...', '[myTestimonials...')
+#3 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\class-wp-hook.php(307): do_shortcode('[myTestimonials...')
+#4 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('[myTestimonials...', Array)
+#5 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1811): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php on line 165
+
+2022-03-10T06:19:36+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php:165
+Stack trace:
+#0 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(356): vm_myTestimonials('', '', 'myTestimonials-...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(myTest...', 'do_shortcode_ta...', '[myTestimonials...')
+#3 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\class-wp-hook.php(307): do_shortcode('[myTestimonials...')
+#4 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('[myTestimonials...', Array)
+#5 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php(1811): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php on line 165
+
+2022-03-10T06:20:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php:165
+Stack trace:
+#0 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(356): vm_myTestimonials('', '', 'myTestimonials-...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(myTest...', 'do_shortcode_ta...', '[myTestimonials...')
+#3 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\class-wp-hook.php(307): do_shortcode('[myTestimonials...')
+#4 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\plugin.php(189): WP_Hook->apply_filters('[myTestimonials...', Array)
+#5 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-revisions-controller.php(606): apply_filters('the_content', '<!-- wp:shortco...')
+#6 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-control in C:\Users\dell\Local Sites\wp5\app\public\wp-content\plugins\myTestimonial\myTestimonial.php on line 165
+
+2022-03-10T06:56:33+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\Users\dell\Local Sites\wp5\app\public\wp-content\themes\estore\header.php:170
+Stack trace:
+#0 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\template.php(716): load_template('C:\\Users\\dell\\L...', true, Array)
+#2 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\dell\Local Sites\wp5\app\public\wp-content\themes\estore\page-templates\template-estore-home.php(10): get_header()
+#4 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\dell\\L...')
+#5 C:\Users\dell\Local Sites\wp5\app\public\wp-blog-header.php(19): require_once('C:\\Users\\dell\\L...')
+#6 C:\Users\dell\Local Sites\wp5\app\public\index.php(17): require('C:\\Users\\dell\\L...')
+#7 {main}
+  thrown in C:\Users\dell\Local Sites\wp5\app\public\wp-content\themes\estore\header.php on line 170
+

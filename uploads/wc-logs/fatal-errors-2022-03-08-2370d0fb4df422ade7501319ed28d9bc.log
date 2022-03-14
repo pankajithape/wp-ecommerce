@@ -1,0 +1,10 @@
+2022-03-08T09:28:39+00:00 CRITICAL syntax error, unexpected end of file in C:\Users\dell\Local Sites\wp5\app\public\wp-content\themes\estore\page-templates\template-estore-home.php on line 59
+
+2022-03-08T09:29:37+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in C:\Users\dell\Local Sites\wp5\app\public\wp-content\themes\estore\page-templates\template-estore-home.php:43
+Stack trace:
+#0 C:\Users\dell\Local Sites\wp5\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\dell\Local Sites\wp5\app\public\wp-blog-header.php(19): require_once('C:\\Users\\dell\\L...')
+#2 C:\Users\dell\Local Sites\wp5\app\public\index.php(17): require('C:\\Users\\dell\\L...')
+#3 {main}
+  thrown in C:\Users\dell\Local Sites\wp5\app\public\wp-content\themes\estore\page-templates\template-estore-home.php on line 43
+
